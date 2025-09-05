@@ -1,4 +1,4 @@
-# 🇵🇭 Capstone Generator for CDO
+# Capstone Bai
 
 <div align="center">
   
